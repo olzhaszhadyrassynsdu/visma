@@ -1,0 +1,24 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.wrapper {
+	padding: 20px;
+}
+
+.wrapper h1 {
+	text-align: center;
+}
+
+.todo {
+	margin-top: 20px;
+	border: 1px solid black;
+	padding: 10px 0;
+}
+
+.done {
+	margin-top: 50px;
+	background-color: beige;
+	padding-left: 5px;
+}

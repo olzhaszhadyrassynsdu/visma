@@ -1,0 +1,13 @@
+.wrapper{
+    text-align: left;
+    background-color: gainsboro;
+    border-radius: 5px;
+    padding: 0px 10px;
+}
+
+.wrapper input{
+    display: block;
+    margin-bottom: 15px;
+}
+
+
